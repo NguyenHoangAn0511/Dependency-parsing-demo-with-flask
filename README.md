@@ -1,9 +1,13 @@
 # Dependency parsing demo with flask
 ## Requirement
 Python >= 3.6
+
 Pytorch
+
 Transformer
+
 nltk
+
 Flask
 ## Set up
 ```
